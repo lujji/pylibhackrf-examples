@@ -1,0 +1,3 @@
+[submodule "pylibhackrf"]
+	path = pylibhackrf
+	url = https://github.com/lujji/pylibhackrf
